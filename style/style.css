@@ -1,0 +1,103 @@
+.Form .submit {
+    background-color: #10BBB3;
+    /* padding: 8px; */
+    outline: none;
+    border: none;
+    /* padding: 9px; */
+}
+
+.Form .submit:hover {
+    background-color: black;
+    color: white;
+}
+
+.Form * {
+    outline: none;
+    margin-bottom: 5px;
+    /* border: none; */
+}
+
+.header {
+    background-color: #10BBB3;
+    padding: 5px;
+}
+
+.menue div {
+    padding: 7px;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+}
+
+.small-pad {
+    padding: 5px;
+}
+
+.input {
+    outline: none;
+    padding: 10px;
+}
+
+.padding-zero {
+    padding: 0px;
+}
+
+.cairo-font {
+    font-family: 'Cairo', sans-serif;
+}
+
+.backgroung {
+    background-color: #F5F8FA;
+}
+
+.formcont {
+    position: relative;
+    top: 50px;
+}
+
+.btn {
+    background-color: white;
+    color: #10BBB3;
+    cursor: pointer;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #10BBB3;
+    color: white;
+    /* background-color: yellow; */
+}
+
+.msg {
+    border: 2px solid red;
+    color: black;
+}
+
+.icon:hover {
+    background-color: #F5F8FA;
+}
+
+.icon:hover i {
+    color: black !important;
+}
+
+.active {
+    border: solid 1px #10BBB3 !important;
+    color: #10BBB3 !important;
+}
+
+.active:hover {
+    background-color: white;
+}
+
+.active:hover i {
+    color: #10BBB3 !important;
+}
+
+.icons:hover {
+    color: red;
+    /* background-color: #F5F8FA; */
+}
