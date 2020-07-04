@@ -8,7 +8,7 @@ Redesign For Sarahah website
 
 # Signup Page
 
-![LoginPage](ReadMe/SignUP.png?raw=true)
+![LoginPage](ReadME/SignUP.png?raw=true)
 
 
 
